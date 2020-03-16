@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Fitness Tracker:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Fitness_Tracker_jar</output-path>
+    <root id="archive" name="Fitness Tracker.jar">
+      <element id="module-output" name="Fitness Tracker" />
+    </root>
+  </artifact>
+</component>
